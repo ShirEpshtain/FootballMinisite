@@ -31,6 +31,10 @@ Before you begin, ensure you have the following requirements:
     ```bash
     npm install
 
+3. nevigate to the right folder
+   ```bash
+   cd FootballMinisite
+
 3. run the project by:
 
     ```bash
